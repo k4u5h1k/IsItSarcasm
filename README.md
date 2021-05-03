@@ -1,6 +1,7 @@
 # isitsarcasm
-Making ml detect something I can't.
+Making an RNN detect what I can't.
 # Requirements
+- [This](https://www.kaggle.com/danofer/sarcasm?select=train-balanced-sarcasm.csv) Reddit comments dataset
 - Numpy
 - Pandas
 - Nltk
